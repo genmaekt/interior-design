@@ -1,6 +1,15 @@
-.column {
-  width: 50%;
+.column1 {
+  width: 39%;
   float: left;
+  background-color: lightsteelblue;
+  padding: 5px;
+}
+
+.column2 {
+  width: 39%;
+  float: right;
+  background-color: lightslategrey;
+  padding: 5px;
 }
 
 h1 {
@@ -22,4 +31,6 @@ img {
 
 .disclaimer {
   font-size: smaller;
+  text-align: center;
+  margin-top: 750pt;
 }
